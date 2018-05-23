@@ -2,7 +2,7 @@
 Listen TCP or UDP  data stream, parsing JSON data and insert into MySQL
 
 
-# Input Example (JSON)
+## Input Example (JSON)
 {
   "Serial": "A08888",
   "Data": [
